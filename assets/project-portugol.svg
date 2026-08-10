@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-labelledby="title desc">
+  <title id="title">Exercícios em Portugol</title>
+  <desc id="desc">Capa visual com uma janela de código em Portugol.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c0a1f"/><stop offset="1" stop-color="#2e1065"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-opacity="0.45"/></filter>
+  </defs>
+  <rect width="720" height="360" rx="26" fill="url(#bg)"/>
+  <circle cx="670" cy="55" r="145" fill="#a78bfa" opacity="0.08"/>
+  <text x="38" y="58" fill="#f8fafc" font-family="Segoe UI,Arial" font-size="30" font-weight="800">EXERCÍCIOS EM PORTUGOL</text>
+  <text x="40" y="86" fill="#a5b4fc" font-family="Segoe UI,Arial" font-size="15">lógica • variáveis • cálculos • entrada e saída</text>
+  <g transform="translate(38 110)" filter="url(#shadow)">
+    <rect width="644" height="210" rx="18" fill="#050711" stroke="#312e81"/>
+    <rect width="644" height="38" rx="18" fill="#18142f"/>
+    <rect y="20" width="644" height="18" fill="#18142f"/>
+    <circle cx="24" cy="19" r="6" fill="#fb7185"/><circle cx="46" cy="19" r="6" fill="#fbbf24"/><circle cx="68" cy="19" r="6" fill="#4ade80"/>
+    <text x="322" y="25" text-anchor="middle" fill="#94a3b8" font-family="Consolas,monospace" font-size="12">calculadora-basica.por</text>
+    <g font-family="Consolas,monospace" font-size="17">
+      <text x="28" y="73" fill="#64748b">01</text><text x="68" y="73" fill="#c4b5fd">programa</text><text x="151" y="73" fill="#e2e8f0">{</text>
+      <text x="28" y="103" fill="#64748b">02</text><text x="88" y="103" fill="#7dd3fc">funcao inicio()</text><text x="242" y="103" fill="#e2e8f0">{</text>
+      <text x="28" y="133" fill="#64748b">03</text><text x="108" y="133" fill="#5eead4">inteiro</text><text x="180" y="133" fill="#f8fafc">numero1, numero2, soma</text>
+      <text x="28" y="163" fill="#64748b">04</text><text x="108" y="163" fill="#f9a8d4">soma</text><text x="154" y="163" fill="#e2e8f0">= numero1 + numero2</text>
+      <text x="28" y="193" fill="#64748b">05</text><text x="108" y="193" fill="#22d3ee">escreva</text><text x="184" y="193" fill="#f8fafc">("Resultado: ", soma)</text>
+    </g>
+    <g transform="translate(505 68)"><circle cx="48" cy="48" r="45" fill="#16113a" stroke="url(#accent)" stroke-width="3"/><text x="48" y="42" text-anchor="middle" fill="#f8fafc" font-family="Segoe UI,Arial" font-size="28" font-weight="800">10</text><text x="48" y="65" text-anchor="middle" fill="#a5b4fc" font-family="Segoe UI,Arial" font-size="11">ATIVIDADES</text></g>
+  </g>
+  <rect x="38" y="337" width="644" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
