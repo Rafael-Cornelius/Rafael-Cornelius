@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Rafael Cornelius — estudante de Engenharia de Software" />
+<img src="https://raw.githubusercontent.com/rafaelrfl0900-ship-it/rafaelrfl0900-ship-it/main/assets/profile-header.svg" width="100%" alt="Rafael Cornelius — estudante de Engenharia de Software" />
 
 <br>
 
@@ -51,12 +51,18 @@ Objetivo       Estágio em Engenharia de Software, TI ou Desenvolvimento
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/rafaelrfl0900-ship-it/nexus-operacional">
+        <img src="https://raw.githubusercontent.com/rafaelrfl0900-ship-it/rafaelrfl0900-ship-it/main/assets/project-nexus.svg" width="100%" alt="Capa do Nexus Operacional" />
+      </a>
       <h3>⚙️ Nexus Operacional</h3>
       <p>Sistema em evolução para transformar controles industriais de planilhas em uma plataforma operacional com produção, perdas, paradas, indicadores e histórico.</p>
       <p><strong>Destaques:</strong> análise de processos, Excel, dashboards e desenvolvimento assistido por IA.</p>
       <a href="https://github.com/rafaelrfl0900-ship-it/nexus-operacional">Ver projeto →</a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/rafaelrfl0900-ship-it/exercicios-portugol">
+        <img src="https://raw.githubusercontent.com/rafaelrfl0900-ship-it/rafaelrfl0900-ship-it/main/assets/project-portugol.svg" width="100%" alt="Capa dos exercícios em Portugol" />
+      </a>
       <h3>🧠 Exercícios em Portugol</h3>
       <p>Coleção organizada com dez atividades de lógica: variáveis, entrada de dados, operações, porcentagens, geometria e conversões.</p>
       <p><strong>Destaques:</strong> fundamentos, raciocínio lógico e documentação.</p>
@@ -65,12 +71,18 @@ Objetivo       Estágio em Engenharia de Software, TI ou Desenvolvimento
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/rafaelrfl0900-ship-it/fisio_nadine">
+        <img src="https://raw.githubusercontent.com/rafaelrfl0900-ship-it/rafaelrfl0900-ship-it/main/assets/project-fisio.svg" width="100%" alt="Capa do protótipo Fisio Nadine" />
+      </a>
       <h3>🩺 Fisio Nadine</h3>
       <p>Protótipo de aplicação para rotina de fisioterapia, explorando agenda, pacientes, atendimentos e controle financeiro simples.</p>
       <p><strong>Status:</strong> estudo de fluxo, interface e organização de código.</p>
       <a href="https://github.com/rafaelrfl0900-ship-it/fisio_nadine">Ver protótipo →</a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/rafaelrfl0900-ship-it/arquitetura.logisin">
+        <img src="https://raw.githubusercontent.com/rafaelrfl0900-ship-it/rafaelrfl0900-ship-it/main/assets/project-logica.svg" width="100%" alt="Capa dos projetos de lógica digital" />
+      </a>
       <h3>🔌 Lógica Digital</h3>
       <p>Experimentos acadêmicos com arquitetura de computadores, decodificadores, displays e flip-flop JK.</p>
       <p><strong>Destaques:</strong> circuitos digitais e fundamentos de hardware.</p>
@@ -81,16 +93,14 @@ Objetivo       Estágio em Engenharia de Software, TI ou Desenvolvimento
   </tr>
 </table>
 
-## Minha evolução no GitHub
+## Painel de evolução
 
-<div align="center">
+| Base atual | Em prática | Próximos passos |
+|---|---|---|
+| C, HTML, CSS e lógica | Portugol, Git, GitHub e documentação | Python, projetos menores e código mais organizado |
+| Excel avançado e processos | Nexus Operacional e exercícios acadêmicos | Testes, interfaces e resolução de problemas |
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=rafaelrfl0900-ship-it&show_icons=true&theme=transparent&hide_border=true&title_color=5EEAD4&text_color=C9D1D9&icon_color=38BDF8&ring_color=818CF8&locale=pt-br" alt="Estatísticas do GitHub de Rafael" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrfl0900-ship-it&layout=compact&theme=transparent&hide_border=true&title_color=5EEAD4&text_color=C9D1D9&langs_count=6&locale=pt-br" alt="Linguagens presentes nos repositórios" />
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelrfl0900-ship-it&bg_color=00000000&color=94A3B8&line=5EEAD4&point=818CF8&area=true&hide_border=true&custom_title=Contribuições%20e%20aprendizado" alt="Gráfico de contribuições de Rafael" />
-
-</div>
+As contribuições e a frequência de estudos podem ser acompanhadas no [gráfico oficial do meu perfil](https://github.com/rafaelrfl0900-ship-it?tab=overview), sem depender de imagens geradas por serviços externos.
 
 ## O que estou desenvolvendo agora
 
@@ -99,6 +109,38 @@ Objetivo       Estágio em Engenharia de Software, TI ou Desenvolvimento
 - Organização de repositórios, documentação e versionamento com Git.
 - Transformação de ideias e controles em projetos compreensíveis e utilizáveis.
 - Uso de inteligência artificial como apoio ao desenvolvimento, sem esconder o que ainda estou aprendendo.
+
+## Bastidores de quem está aprendendo 😅
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://giphy.com/gifs/3oKIPnAiaMCws8nOsE">
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="Gato programando rapidamente" />
+      </a>
+      <br><strong>Eu digitando rápido</strong><br>
+      <sub>para parecer que sei onde está o erro.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://giphy.com/gifs/Dh5q0sShxgp13DwrvG">
+        <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="100%" alt="Cachorro digitando sem saber o que está fazendo" />
+      </a>
+      <br><strong>Começando algo novo</strong><br>
+      <sub>confiança: 100% · certeza: 12%.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://giphy.com/gifs/sNpgrhRUmhJhDQCceA">
+        <img src="https://media.giphy.com/media/sNpgrhRUmhJhDQCceA/giphy.gif" width="100%" alt="Cena engraçada representando a busca por um bug" />
+      </a>
+      <br><strong>Depois de horas procurando</strong><br>
+      <sub>o bug era uma letra no lugar errado.</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <details>
   <summary><strong>Princípios que quero mostrar em cada projeto</strong></summary>
