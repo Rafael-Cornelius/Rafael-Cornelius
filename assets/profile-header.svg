@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Rafael Cornelius — Engenharia de Software</title>
-  <desc id="desc">Banner animado de perfil com terminal, circuitos e informações profissionais de Rafael Cornelius.</desc>
+  <desc id="desc">Banner animado de perfil sobre Engenharia de Software, dados e automação de Rafael Cornelius.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -64,11 +64,11 @@
 
       <text x="25" y="150" fill="#64748b">03</text>
       <text x="82" y="150" fill="#5eead4">base:</text>
-      <text x="143" y="150" fill="#f8fafc">["C", "HTML", "CSS"],</text>
+      <text x="143" y="150" fill="#f8fafc">["C", "SQL", "Web"],</text>
 
       <text x="25" y="184" fill="#64748b">04</text>
       <text x="82" y="184" fill="#5eead4">agora:</text>
-      <text x="154" y="184" fill="#f8fafc">"Python + lógica",</text>
+      <text x="154" y="184" fill="#f8fafc">"Python + automação",</text>
 
       <text x="25" y="218" fill="#64748b">05</text>
       <text x="61" y="218" fill="#e2e8f0">}</text>
@@ -85,7 +85,7 @@
       <animate attributeName="width" values="150;610;150" dur="6s" repeatCount="indefinite"/>
     </rect>
     <text x="485" y="249" fill="#7dd3fc" font-size="25" font-weight="700">ENGENHARIA DE SOFTWARE</text>
-    <text x="485" y="286" fill="#cbd5e1" font-size="20">Lógica • Código • Projetos em evolução</text>
+    <text x="485" y="286" fill="#cbd5e1" font-size="20">C • SQL/MySQL • Excel • Automação</text>
     <text x="485" y="320" fill="#94a3b8" font-size="16">Maringá, Paraná — Brasil</text>
   </g>
 
