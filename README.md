@@ -126,6 +126,34 @@ A frequência de estudos pode ser acompanhada no [gráfico oficial de contribui�
 
 <sub>Confiança para começar: 100% · certeza sobre o bug: em processamento.</sub>
 
+<br><br>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://giphy.com/gifs/3oKIPnAiaMCws8nOsE">
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="Gato programando rapidamente" />
+      </a>
+      <br><strong>Eu digitando rápido</strong><br>
+      <sub>para parecer que sei onde está o erro.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://giphy.com/gifs/Dh5q0sShxgp13DwrvG">
+        <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="100%" alt="Cachorro digitando sem saber o que está fazendo" />
+      </a>
+      <br><strong>Começando algo novo</strong><br>
+      <sub>confiança: 100% · certeza: 12%.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://giphy.com/gifs/sNpgrhRUmhJhDQCceA">
+        <img src="https://media.giphy.com/media/sNpgrhRUmhJhDQCceA/giphy.gif" width="100%" alt="Cena engraçada representando a procura por um bug" />
+      </a>
+      <br><strong>Depois de horas procurando</strong><br>
+      <sub>o bug era uma letra no lugar errado.</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <details>
