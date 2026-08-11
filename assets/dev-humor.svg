@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Bastidores de quem está aprendendo</title>
+  <desc id="desc">Cena animada e bem-humorada de programação com terminal, café e um bug escondido.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#050816"/>
+      <stop offset="0.55" stop-color="#111b3c"/>
+      <stop offset="1" stop-color="#06343a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#5eead4"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000" flood-opacity=".45"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <circle cx="1090" cy="36" r="170" fill="#38bdf8" opacity=".07"/>
+  <circle cx="80" cy="300" r="150" fill="#818cf8" opacity=".06"/>
+
+  <g transform="translate(54 43)" filter="url(#shadow)">
+    <rect width="700" height="234" rx="18" fill="#030712" stroke="#334155"/>
+    <rect width="700" height="40" rx="18" fill="#172033"/>
+    <rect y="20" width="700" height="20" fill="#172033"/>
+    <circle cx="25" cy="20" r="6" fill="#fb7185"/>
+    <circle cx="47" cy="20" r="6" fill="#fbbf24"/>
+    <circle cx="69" cy="20" r="6" fill="#4ade80"/>
+    <text x="350" y="26" text-anchor="middle" fill="#94a3b8" font-family="Consolas,monospace" font-size="13">debug-da-vida.c</text>
+
+    <g font-family="Consolas,monospace" font-size="19">
+      <text x="28" y="82" fill="#64748b">01</text>
+      <text x="72" y="82" fill="#c4b5fd">while</text>
+      <text x="132" y="82" fill="#e2e8f0">(nao_funciona) {</text>
+
+      <text x="28" y="119" fill="#64748b">02</text>
+      <text x="95" y="119" fill="#7dd3fc">testar();</text>
+
+      <text x="28" y="156" fill="#64748b">03</text>
+      <text x="95" y="156" fill="#5eead4">respirar();</text>
+
+      <text x="28" y="193" fill="#64748b">04</text>
+      <text x="95" y="193" fill="#fda4af">procurar_o_bug();</text>
+
+      <text x="28" y="222" fill="#64748b">05</text>
+      <text x="72" y="222" fill="#e2e8f0">}</text>
+      <rect x="91" y="204" width="9" height="22" rx="2" fill="#5eead4">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <g transform="translate(560 72)">
+      <path d="M0 20h76v83c0 25-17 42-38 42S0 128 0 103z" fill="#0f2430" stroke="#5eead4" stroke-width="3"/>
+      <path d="M76 43h18c38 0 38 51 0 51H76" fill="none" stroke="#5eead4" stroke-width="8"/>
+      <path d="M22 8c-14-18 12-22 0-40M43 8c-14-18 12-22 0-40M63 8c-14-18 12-22 0-40" fill="none" stroke="#94a3b8" stroke-width="4" stroke-linecap="round" opacity=".75">
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="2.4s" repeatCount="indefinite"/>
+      </path>
+      <text x="38" y="91" text-anchor="middle" fill="#f8fafc" font-family="Segoe UI,Arial" font-size="15" font-weight="700">CAFÉ</text>
+    </g>
+  </g>
+
+  <g transform="translate(812 72)" font-family="Segoe UI,Arial">
+    <text x="0" y="0" fill="#94a3b8" font-size="18" font-weight="700" letter-spacing="3">STATUS DO DESENVOLVEDOR</text>
+    <text x="0" y="58" fill="#f8fafc" font-size="34" font-weight="900">“Compilou de primeira?”</text>
+    <text x="0" y="100" fill="#7dd3fc" font-size="27" font-weight="800">Suspeito.</text>
+    <rect x="0" y="126" width="310" height="4" rx="2" fill="url(#accent)">
+      <animate attributeName="width" values="95;310;95" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="0" y="175" fill="#cbd5e1" font-size="20">Depois de duas horas:</text>
+    <text x="0" y="211" fill="#5eead4" font-size="25" font-weight="800">o bug era uma letra.</text>
+  </g>
+</svg>
